@@ -208,7 +208,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
         case 13:
            
-            document.getElementById('noBtn').innerHTML = 'Estás rompiendo mi corazón de melón :(';
+            document.getElementById('noBtn').innerHTML = 'Estás rompiendo mi corazoncito :(';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             document.getElementById('siBtn').style.fontSize = '240px';
@@ -261,3 +261,4 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
     }
 });
+
